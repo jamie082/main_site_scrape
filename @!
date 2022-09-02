@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="css_file.css">
+    </head>
+    <section class = "column">
+        <div class="body_element" id = "one">
+            <h1>Hello</h1>
+            <p>Well I started my Programming Journey 4 years ago back in Febraury of 2018</p>
+        </div>
+        <div class="body_element" id = "two">
+            <h1>Linux</h1>
+            <p>I learned C programming as my first programming language</p>
+        </div>
+        <div class="body_element" id = "three">
+            <h1>Windows 10</h1>
+            <p>I started off with Python after a Software Engineer from Los Angeles told me to switch to something Higher level</p>
+        </div>
+        <div class="body_element" id = "four">
+          	<h1>Books</h1>
+		    <p>This book is outdated, five years old, it's a great book to get the reader able to write basic code and learn how to read code. Not for beginners!</p>
+		    <ul>
+			    <li>Learn Python 3 The Hard Way</li>
+			    <img src="hard_way.jpg" alt="hard way">
+			    <li>The C programming Language (K&R)</li>
+			    <li>Sam's Teach Yourself C in one hour a day</li>
+			    <img src="teach_c.jpg" alt="Teach Yourself c">
+		    </ul>
+        </div>      
+        
+        <div class="body_element" id="five">
+            <h1>Links around the Internet</h1>
+	    <p>Enter paragraph here</p>
+        </div> 
+
+        <div class="body_element" id="six">
+        <nav>
+		<ul>
+				<li><a href="http://www.github.com/jamie082">my github</a></li><br />
+				<li><a href="http://flask.palletsprojects.com/en/2.1.x/">Flask</a></li><br />
+				<li><a href="http://www.fullstackpython.com/flask.html">Django Web Framework (Python)</a></li><br />
+				<li><a href="https://www.djangoproject.com">Django Framework</a></li><br />
+				<li><a href="mailto:jamiemorrissey02@gmail.com">send me an email</a></li><br />
+				<li><a href="http://code.visualstudio.com">Visual Studio Code</a></li><br />
+				<li><a href="http://amazon.com/Teach-Yourself-Publishing-Html-Days/dp/1575210967">Teach Yourself Web Publishing with HTML 3.2 in 14 Days</a></li><br />
+				<li><a href="http://techland.time.com/2011/08/23/ten-of-the-shortest-lived-tech-products-ever/">Growing up online, internet in the 90s</a></li><br />
+				<li><a href="http://jamiemorrissey.tech">My Word Press</a></li><br />
+				<li><a href="http://empty">My Resume</a></li><br />
+				<li><a href="http://www.angularjs.org">ANGULARJS web framework</a></li><br />
+				<p>These are links from around the Internet</p>
+		</ul>
+	</nav>
+
+        <div class = "body_element" id="seven">
+        <nav>
+            	<h1>Developer Portfolio</h1>
+			<ol>
+				<li>Python Address Book with SQLIte3 Database <a href="http://github.com/jamie082/address_py">here</a></li>
+				<li>Countdown counter (Tkinter/Python) <a href="http://github.com/jamie082/timer_project">here</a></li>
+				<li>Calculator (Tkinter/Python)</li>
+				<li>Leap Year <a href="http://github.com/jamie082/leap_year_py">here</a></li>
+				<li>Weight Program (py)<a href="http://github.com/jamie082/weight_py">Weight Progam (py)</a></li>
+				<li>Wordpress Blog <a href="http://jamiemorrissey.tech">here</a></li>
+				<li>Scrape my site project <a href="http://github.com/jamie082/scrape_my_site">click here</a></li>
+			</ol>
+     </nav>
+    </section>
+    </div>
+    </head>
+</body>
+</html>
+
+
+
+
+
+  
